@@ -1,0 +1,7 @@
+﻿  sore_system.cpp
+f:\2020第一学期作业\数据结构实践\score_system\score_system\sore_system.cpp(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\2020第一学期作业\数据结构实践\score_system\score_system\sore_system.cpp(369): warning C4101: “i”: 未引用的局部变量
+f:\2020第一学期作业\数据结构实践\score_system\score_system\sore_system.cpp(384): warning C4101: “i”: 未引用的局部变量
+f:\2020第一学期作业\数据结构实践\score_system\score_system\sore_system.cpp(847): warning C4101: “rat”: 未引用的局部变量
+f:\2020第一学期作业\数据结构实践\score_system\score_system\sore_system.cpp(309): warning C4715: “degree”: 不是所有的控件路径都返回值
+  Score_System.vcxproj -> F:\2020第一学期作业\数据结构实践\Score_System\Debug\Score_System.exe
